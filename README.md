@@ -23,10 +23,11 @@ For example, by default the left knob controls the volume (by emulating the hard
 ## Features
 
 - Multiple layers 
-  - 0 - Emulating multimedia keys and arrows
-  - 1 - Emulating F13+ keys (for binding them as a shortcut key in certain apps)
-  - 2 - Printing what was pressed to serial port (for reading that info and scripting something on PC in, say, Python)
-  - 3 - Emulating <, >, +, -, left and right arrows (for Lightroom batch photo editing)
+  - 0 (cyan) - Emulating multimedia keys and arrows
+  - 1 (yellow) - Emulating F13+ keys (for binding them as a shortcut key in certain apps)
+  - 2 (purple) - Printing what was pressed to serial port (for reading that info and scripting something on PC in, say, Python)
+  - 3 (blue) - Emulating <, >, +, -, left and right arrows (for Lightroom batch photo editing)
+  - 4 (green) - Left knob for multimedia, middle one for up/down/enter, right one for F13/F14/F15
 - Indicating current layer via LED
 - Indicating an encoder event via LED
 - RGB lights!
